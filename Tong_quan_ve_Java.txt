@@ -1,0 +1,16 @@
+JDK - Thư viện lập trình java
+    - Trình biên dịch java: JavaC.exe
+
+Nhiều lĩnh vực ứng dụng:
+	- J2SE(java standard edition): java win form
+	- J2EE(java extension edition): java web
+	- J2ME(java micro edition): lập trình di động
+	- Android
+
+Java Core: 
+	+ Cấu trúc lập trình
+	+ Các thư viện phổ biến
+	+ Đa luồng
+	+ I/O
+
+
