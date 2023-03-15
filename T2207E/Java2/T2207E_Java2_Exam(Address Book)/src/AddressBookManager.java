@@ -20,9 +20,16 @@ public class AddressBookManager {
     }
     
     public void addContact() {
-        contact.Input();
-        map_name.put(contact.getName(), contact.getPhone());
-        System.out.println("Contact added.");
+        Scanner sc = new Scanner(System.in);
+        String res;
+        while(true) {
+            contact.Input();
+            map_name.put(contact.getName(), contact.getPhone());
+            System.out.println("Continue add new contact? (y/n): ");
+            res = sc.nextLine();
+            if(res.equalsIgnoreCase("n"))
+                break;
+        }
     }
     
     public void findContactbyName() {

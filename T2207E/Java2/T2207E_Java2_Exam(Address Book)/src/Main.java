@@ -26,7 +26,11 @@ public class Main {
 
             // Use a switch statement to handle different options
             switch (choice) {
-              case 1 -> mng.addContact();
+              case 1 -> {
+                  System.out.println("Add a new contact.");
+                  mng.addContact();
+                  System.out.println("Contact added.");
+              }
               case 2 -> mng.findContactbyName();
               case 3 -> mng.displayContacts();
               case 4 -> {
