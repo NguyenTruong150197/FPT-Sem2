@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE address [
+    <!ELEMENT address (name,phone,email,test)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT test (#PCDATA)>
+    <!ENTITY center "FPT">
+]>
+<!--nội dung tài liệu XML-->
+<address>
+    <name>Aptech</name>
+    <phone>123456789</phone>
+    <email>&center; - abc@aptech.vn</email>
+    <test>biểu thức: <![CDATA[x*2> 4 & 5]]></test>
+</address>

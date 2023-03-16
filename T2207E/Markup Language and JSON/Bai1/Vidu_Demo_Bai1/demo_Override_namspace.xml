@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopOrder xmlns="http://localhost/customer">
+    <Order>
+        <Customer>
+            <Title>Khách hàng 1</Title>
+            <Address xmlns="http://localhost">Hà nội</Address>
+        </Customer>
+        <Customer>
+            <Title>Khách hàng 2</Title>
+            <Address>Hải Phòng</Address>
+        </Customer>
+    </Order>
+</ShopOrder>

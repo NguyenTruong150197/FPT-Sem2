@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:element name="student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="[a-zA-Z]{3}"></xs:pattern>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="id" type="xs:integer"/>
+                <xs:element name="gender">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="male|female"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="contactInfo">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="address" type="addressType" />
+                            <xs:element name="phone" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="addressType">
+        <xs:sequence>
+            <xs:element name="province" type="xs:string"/>
+            <xs:element name="district" type="xs:string"/>
+            <xs:element name="commune" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

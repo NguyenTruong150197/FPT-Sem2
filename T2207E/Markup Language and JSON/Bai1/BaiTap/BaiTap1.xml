@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE BookOrder [
+    <!ELEMENT BookOrder (OrderDate, Customer, Book)>
+    <!ELEMENT OrderDate (#PCDATA)>
+    <!ELEMENT Customer (Title, FirstName, LastName)>
+    <!ELEMENT Book (Title, Author)>
+    <!ELEMENT Title (#PCDATA)>
+    <!ELEMENT FirstName (#PCDATA)>
+    <!ELEMENT LastName (#PCDATA)>
+    <!ELEMENT Author (#PCDATA)>
+]>
+<BookOrder>
+    <OrderDate></OrderDate>
+    <Customer>
+        <Title></Title>
+        <FirstName></FirstName>
+        <LastName></LastName>
+    </Customer>
+    <Book>
+        <Title></Title>
+        <Author></Author>
+    </Book>
+</BookOrder>

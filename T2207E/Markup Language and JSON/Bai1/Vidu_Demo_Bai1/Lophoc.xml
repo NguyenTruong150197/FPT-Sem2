@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE Class [
+    <!ELEMENT Class (Student+)>
+    <!ELEMENT Student (RollNo,FullName,Year)>
+    <!ELEMENT RollNo (#PCDATA)>
+    <!ELEMENT FullName (#PCDATA)>
+    <!ELEMENT Year (#PCDATA)>
+    <!ATTLIST Class ClassName ID #REQUIRED>
+]>
+<Class ClassName="T2111E">
+    <Student>
+        <RollNo>SV01</RollNo>
+        <FullName>Nguyễn Văn Bình</FullName>
+        <Year>2000</Year>
+    </Student>
+    <Student>
+        <RollNo>SV02</RollNo>
+        <FullName>Trần Thị Hoa</FullName>
+        <Year>2001</Year>
+    </Student>
+</Class>

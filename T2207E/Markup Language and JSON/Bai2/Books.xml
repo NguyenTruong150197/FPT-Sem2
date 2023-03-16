@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Books [
+    <!ELEMENT Books (Book*)> <!-- ? :0 hoặc 1, * :0 hoặc nhiếu, + :1 hoặc nhiều -->
+    <!ELEMENT Book (Name,Price)>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Price (#PCDATA)>
+    <!ATTLIST Book Code CDATA "1">
+    <!ATTLIST Book Type (IT|Eco|Edu) #REQUIRED>
+    <!ENTITY Currency "VNĐ">
+]>
+<Books>
+       <Book Type="IT" Code="1">
+           <Name>Sách 1</Name>
+           <Price>100000 &Currency;</Price>
+       </Book>
+       <Book Type="Eco" Code="2">
+        <Name>Sách 2</Name>
+        <Price>200000 &Currency;</Price>
+    </Book>
+</Books>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='studentSchema2.xsd'>
+    <name>abc</name>
+    <id>111</id>
+    <gender>male</gender>
+    <contactInfo>
+        <address>
+            <province>Ha noi</province>
+            <district>Cau giay</district>
+            <commune>Dich vong</commune>
+        </address>
+        <phone>09123</phone>
+    </contactInfo>
+</student>

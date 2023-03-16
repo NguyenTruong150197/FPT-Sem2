@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE Order [
+    <!ELEMENT Invoice (#PCDATA)>
+    <!ELEMENT Order (CustomerName, Address, OrderID, TotalPrice)>
+    <!ELEMENT Cod (ShippingAddress, ShippingMethod, ShippingTotal)>
+    <!ELEMENT Account (CustomerID, InvoicePeriod)>
+    <!ELEMENT ShippingInfo (ShipDate, BillingAddress*)>
+    <!ELEMENT CustomerName (#PCDATA)>
+    <!ELEMENT Address (#PCDATA)>
+    <!ELEMENT OrderID (#PCDATA)>
+    <!ELEMENT TotalPrice (#PCDATA)>
+    <!ELEMENT ShippingAddress (#PCDATA)>
+    <!ELEMENT ShippingMethod (Air | Ground)>
+    <!ELEMENT ShippingTotal (#PCDATA)>
+    <!ELEMENT CustomerID (#PCDATA)>
+    <!ELEMENT InvoicePeriod (#PCDATA)>
+    <!ELEMENT ShipDate (#PCDATA)>
+    <!ELEMENT BillingAddress (#PCDATA)>
+    <!ELEMENT Description (#PCDATA)>
+    <!ATTLIST Order OrderNumber ID #REQUIRED>
+    <!ATTLIST Account State (Active | No) ID #REQUIRED>
+]>
+<Order>
+
+</Order>

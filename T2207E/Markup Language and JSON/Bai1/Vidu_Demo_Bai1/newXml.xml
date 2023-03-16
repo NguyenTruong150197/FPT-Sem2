@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!-- 
+comment ghi o day
+-->
+
+<danhsachsv>
+    <student>
+        <id>50</id>
+        <name>DungPT</name>
+        <age>23</age>
+    </student>
+    <student>
+        <id>51</id>
+        <name>Phạm Thị Ngọc</name>
+        <age>19</age>
+    </student>
+    <student>
+        <id>53</id>
+        <name>Lê Thị Mai</name>
+        <age>43</age>
+    </student>
+    <student>
+        <id value="54" VAlue="54"/>
+        <Id>54</Id>
+        <name></name>
+        <age></age>
+    </student>
+    <student>
+        <id>&amp;</id>
+        <name><![CDATA[ &  ]]></name>
+        <age></age>
+        <description color="red" style="abcinei" />
+    </student>
+</danhsachsv>

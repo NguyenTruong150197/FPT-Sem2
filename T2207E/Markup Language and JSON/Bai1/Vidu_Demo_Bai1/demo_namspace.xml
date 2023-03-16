@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopOrder xmlns:cus="http://localhost/customer" 
+            xmlns:pd="http://localhost/product">
+    <Order>
+        <cus:Customer>
+            <cus:Title>Tên khách hàng</cus:Title>
+            <cus:Address></cus:Address>
+        </cus:Customer>
+        <pd:Product>
+            <pd:Title>Laptop HP</pd:Title>
+            <pd:Quantity>20</pd:Quantity>
+            <pd:Price>15.000.000 vnđ</pd:Price>
+        </pd:Product>
+    </Order>
+</ShopOrder>
