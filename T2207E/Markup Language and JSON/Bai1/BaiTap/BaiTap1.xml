@@ -8,16 +8,18 @@
     <!ELEMENT FirstName (#PCDATA)>
     <!ELEMENT LastName (#PCDATA)>
     <!ELEMENT Author (#PCDATA)>
+    <!ATTLIST BookOrder xmlns CDATA value>
 ]>
-<BookOrder>
+<BookOrder xmlns:cus = "http://localhost/customer"
+            xmlns:book = "http://localhost/book">
     <OrderDate></OrderDate>
     <Customer>
-        <Title></Title>
+        <cus:Title></cus:Title>
         <FirstName></FirstName>
         <LastName></LastName>
     </Customer>
     <Book>
-        <Title></Title>
+        <book:Title></book:Title>
         <Author></Author>
     </Book>
 </BookOrder>

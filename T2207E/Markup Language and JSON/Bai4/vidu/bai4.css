@@ -1,0 +1,17 @@
+Name,NameSem,Address{
+    display:block; background-color:brown;color:White
+}
+NameStudent{
+    display:block; background-color:Gray;color:White
+}
+Subject{
+    display:block
+}
+NameSubject,Mark{
+    margin: 5px;
+    border: 1px red solid;
+    width: 200px;
+    display:block;
+    background-color: yellow;
+    margin-left:100px
+}

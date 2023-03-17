@@ -1,0 +1,26 @@
+book{
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid red;      
+    background-color: yellow;
+}
+title{
+    display: block;
+    color: blue;    
+    text-align: center;
+    font-weight: bold;
+}
+price{
+    display: block;
+    color: green;    
+    margin: 5px;
+    background-color: pink;
+}
+author{
+    text-indent: 10px;
+    text-transform: uppercase;
+}
+#book1 {font-style: italic;}

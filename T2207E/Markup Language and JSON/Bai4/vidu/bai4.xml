@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bai4.css" type="text/css"?>
+<School abc="xyz">
+    <Name>Aptech Computer Education</Name>
+    <Address>Hà Nội</Address>
+    <Sem>
+        <NameSem>Semesters 1</NameSem>
+        <Student>
+            <NameStudent>A</NameStudent>
+            <Subject>
+                <NameSubject>HDJ</NameSubject>
+                <Mark>15</Mark>
+            </Subject>
+            <Subject>
+                <NameSubject>CF</NameSubject>
+                <Mark>23</Mark>
+            </Subject>
+        </Student>
+        <NameSem>Semesters 2</NameSem>
+        <Student>
+            <NameStudent>B</NameStudent>
+            <Subject>
+                <NameSubject>HDJ</NameSubject>
+                <Mark>15</Mark>
+            </Subject>
+            <Subject>
+                <NameSubject>CF</NameSubject>
+                <Mark>23</Mark>
+            </Subject>
+        </Student>
+    </Sem>
+</School>

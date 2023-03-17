@@ -1,10 +1,11 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<!DOCTYPE Order [
-    <!ELEMENT Invoice (#PCDATA)>
+<!DOCTYPE Invoice [
+    <!ELEMENT Invoice (Order, Cod, Account, ShippingInfo, Description)>
     <!ELEMENT Order (CustomerName, Address, OrderID, TotalPrice)>
     <!ELEMENT Cod (ShippingAddress, ShippingMethod, ShippingTotal)>
     <!ELEMENT Account (CustomerID, InvoicePeriod)>
-    <!ELEMENT ShippingInfo (ShipDate, BillingAddress*)>
+    <!ELEMENT ShippingInfo (ShipDate, BillingAdress*)>
+    <!ELEMENT Description (#PCDATA)>
     <!ELEMENT CustomerName (#PCDATA)>
     <!ELEMENT Address (#PCDATA)>
     <!ELEMENT OrderID (#PCDATA)>
@@ -16,10 +17,118 @@
     <!ELEMENT InvoicePeriod (#PCDATA)>
     <!ELEMENT ShipDate (#PCDATA)>
     <!ELEMENT BillingAddress (#PCDATA)>
-    <!ELEMENT Description (#PCDATA)>
+    <!ATTLIST Invoice xmlns CDATA value>
     <!ATTLIST Order OrderNumber ID #REQUIRED>
-    <!ATTLIST Account State (Active | No) ID #REQUIRED>
+    <!ATTLIST Account State (Active | No) "Active">
 ]>
-<Order>
-
-</Order>
+<Invoice xmlns:cn1 = "http://localhost/invoice1"
+         xmlns:cn2 = "http://localhost/invoice2"
+         xmlns:cn3 = "http://localhost/invoice3"
+         xmlns:cn4 = "http://localhost/invoice4"
+         xmlns:cn5 = "http://localhost/invoice5">
+    <!-- Chi nhánh 1 -->
+    <cn1:Order OrderNumber = "">
+        <cn1:CustomerName></cn1:CustomerName>
+        <cn1:Address></cn1:Address>
+        <cn1:OrderID></cn1:OrderID>
+        <cn1:TotalPrice></cn1:TotalPrice>
+    </cn1:Order>
+    <cn1:Cod>
+        <cn1:ShippingAddress></cn1:ShippingAddress>
+        <cn1:ShippingMethod>Air</cn1:ShippingMethod>
+        <cn1:ShippingTotal></cn1:ShippingTotal>
+    </cn1:Cod>
+    <cn1:Account State = "Active">
+        <cn1:CustomerID></cn1:CustomerID>
+        <cn1:InvoicePeriod></cn1:InvoicePeriod>
+    </cn1:Account>
+    <cn1:ShippingInfo>
+        <cn1:ShipDate></cn1:ShipDate>
+        <cn1:BillingAddress></cn1:BillingAddress>
+    </cn1:ShippingInfo>
+    <cn1:Description></cn1:Description>
+    <!-- Chi nhánh 2 -->
+    <cn2:Order OrderNumber = "">
+        <cn2:CustomerName></cn2:CustomerName>
+        <cn2:Address></cn2:Address>
+        <cn2:OrderID></cn2:OrderID>
+        <cn2:TotalPrice></cn2:TotalPrice>
+    </cn2:Order>
+    <cn2:Cod>
+        <cn2:ShippingAddress></cn2:ShippingAddress>
+        <cn2:ShippingMethod>Air</cn2:ShippingMethod>
+        <cn2:ShippingTotal></cn2:ShippingTotal>
+    </cn2:Cod>
+    <cn2:Account State = "Active">
+        <cn2:CustomerID></cn2:CustomerID>
+        <cn2:InvoicePeriod></cn2:InvoicePeriod>
+    </cn2:Account>
+    <cn2:ShippingInfo>
+        <cn2:ShipDate></cn2:ShipDate>
+        <cn2:BillingAddress></cn2:BillingAddress>
+    </cn2:ShippingInfo>
+    <cn2:Description></cn2:Description>
+    <!-- Chi nhánh 3 -->
+    <cn3:Order OrderNumber = "">
+        <cn3:CustomerName></cn3:CustomerName>
+        <cn3:Address></cn3:Address>
+        <cn3:OrderID></cn3:OrderID>
+        <cn3:TotalPrice></cn3:TotalPrice>
+    </cn3:Order>
+    <cn3:Cod>
+        <cn3:ShippingAddress></cn3:ShippingAddress>
+        <cn3:ShippingMethod>Air</cn3:ShippingMethod>
+        <cn3:ShippingTotal></cn3:ShippingTotal>
+    </cn3:Cod>
+    <cn3:Account State = "Active">
+        <cn3:CustomerID></cn3:CustomerID>
+        <cn3:InvoicePeriod></cn3:InvoicePeriod>
+    </cn3:Account>
+    <cn3:ShippingInfo>
+        <cn3:ShipDate></cn3:ShipDate>
+        <cn3:BillingAddress></cn3:BillingAddress>
+    </cn3:ShippingInfo>
+    <cn3:Description></cn3:Description>
+    <!-- Chi nhánh 4 -->
+    <cn4:Order OrderNumber = "">
+        <cn4:CustomerName></cn4:CustomerName>
+        <cn4:Address></cn4:Address>
+        <cn4:OrderID></cn4:OrderID>
+        <cn4:TotalPrice></cn4:TotalPrice>
+    </cn4:Order>
+    <cn4:Cod>
+        <cn4:ShippingAddress></cn4:ShippingAddress>
+        <cn4:ShippingMethod>Air</cn4:ShippingMethod>
+        <cn4:ShippingTotal></cn4:ShippingTotal>
+    </cn4:Cod>
+    <cn4:Account State = "Active">
+        <cn4:CustomerID></cn4:CustomerID>
+        <cn4:InvoicePeriod></cn4:InvoicePeriod>
+    </cn4:Account>
+    <cn4:ShippingInfo>
+        <cn4:ShipDate></cn4:ShipDate>
+        <cn4:BillingAddress></cn4:BillingAddress>
+    </cn4:ShippingInfo>
+    <cn4:Description></cn4:Description>
+    <!-- Chi nhánh 5 -->
+    <cn5:Order OrderNumber = "">
+        <cn5:CustomerName></cn5:CustomerName>
+        <cn5:Address></cn5:Address>
+        <cn5:OrderID></cn5:OrderID>
+        <cn5:TotalPrice></cn5:TotalPrice>
+    </cn5:Order>
+    <cn5:Cod>
+        <cn5:ShippingAddress></cn5:ShippingAddress>
+        <cn5:ShippingMethod>Air</cn5:ShippingMethod>
+        <cn5:ShippingTotal></cn5:ShippingTotal>
+    </cn5:Cod>
+    <cn5:Account State = "Active">
+        <cn5:CustomerID></cn5:CustomerID>
+        <cn5:InvoicePeriod></cn5:InvoicePeriod>
+    </cn5:Account>
+    <cn5:ShippingInfo>
+        <cn5:ShipDate></cn5:ShipDate>
+        <cn5:BillingAddress></cn5:BillingAddress>
+    </cn5:ShippingInfo>
+    <cn5:Description></cn5:Description>
+</Invoice>
