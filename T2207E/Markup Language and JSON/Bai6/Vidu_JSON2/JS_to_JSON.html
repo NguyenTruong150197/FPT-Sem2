@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển giá trị từ JS sang chuỗi JSON</title>
+</head>
+<body>
+    <h2>Chuyển giá trị từ JS sang chuỗi JSON</h2>
+    <script>
+        var obj = {RollNo: "RN01",Fullname:"Student1"};
+        document.write("<p>RollNo: " + obj.RollNo + "</p>");
+        document.write("<p>Fullname: " + obj.Fullname + "</p>");
+        //Convert từ Object sang chuỗi JSON
+        var str = JSON.stringify(obj);
+        document.write("<h3>Chuỗi JSON kết quả</h3>");
+        document.write("<p>" + str + "</p>");
+    </script>
+</body>
+</html>

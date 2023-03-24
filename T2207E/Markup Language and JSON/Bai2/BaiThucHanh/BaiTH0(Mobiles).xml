@@ -1,0 +1,35 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE Mobiles [
+    <!ELEMENT Mobiles (Mobile*)>
+    <!ELEMENT Mobile (Company, Model, Price, Accessories)>
+    <!ELEMENT Company (#PCDATA)>
+    <!ELEMENT Model (#PCDATA)>
+    <!ELEMENT Price (#PCDATA)>
+    <!ELEMENT Accessories (#PCDATA)>
+    <!ATTLIST Model Type (cam | web | pc | mouse) #REQUIRED>
+    <!ATTLIST Model Code CDATA "Camera">
+    <!ATTLIST Model Fac CDATA "Camera">
+    <!ENTITY HP "Head Phones">
+    <!ENTITY CH "Charger">
+    <!ENTITY SK "Starter's Kit">
+]>
+<Mobiles>
+    <Mobile>
+        <Company>&HP;</Company>
+        <Model Type="web"></Model>
+        <Price>$120</Price>
+        <Accessories>In Hand</Accessories>
+    </Mobile>
+    <Mobile>
+        <Company>&CH;</Company>
+        <Model Type="cam"></Model>
+        <Price>$60</Price>
+        <Accessories>Free Online</Accessories>
+    </Mobile>
+    <Mobile>
+        <Company>&SK;</Company>
+        <Model Type="mouse"></Model>
+        <Price>$9</Price>
+        <Accessories>Dinanosauros</Accessories>
+    </Mobile>
+</Mobiles>

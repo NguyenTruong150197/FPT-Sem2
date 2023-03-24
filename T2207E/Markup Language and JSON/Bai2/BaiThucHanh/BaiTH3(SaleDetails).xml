@@ -1,0 +1,46 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE SaleDetails SYSTEM "BaiTH2(SaleDetails).dtd">
+<SaleDetails>
+    <Sale>
+        <BillNumber>4568</BillNumber>
+        <Date>23/02/2007</Date>
+        <Branch>Hampshire</Branch>
+        <Item>
+            <Number>1</Number>
+            <Name Category="Apparel">&LS; Jeans</Name>
+            <Code>2323</Code>
+            <Quantity>1</Quantity>
+            <Price>200</Price>
+            <Discount>10</Discount>
+            <Total>180</Total>
+        </Item>
+        <Payment Mode="Card">
+            <CardName Type="Credit">&IC;</CardName>
+            <CustomerName>Allan</CustomerName>
+            <CardNumber>99044993</CardNumber>
+            <AccountNumber>77688906</AccountNumber>
+            <GrandTotal>180</GrandTotal>
+        </Payment>
+    </Sale>
+    <Sale>
+        <BillNumber>4576</BillNumber>
+        <Date>23/02/2007</Date>
+        <Branch>Hampshire</Branch>
+        <Item>
+            <Number>1</Number>
+            <Name Category="Footwear">&MC; Leather Shoes</Name>
+            <Code>1312</Code>
+            <Quantity>3</Quantity>
+            <Price>1099</Price>
+            <Discount>0</Discount>
+            <Total>1099</Total>
+        </Item>
+        <Payment Mode="Cash">
+            <CardName Type="Credit"></CardName>
+            <CustomerName></CustomerName>
+            <CardNumber></CardNumber>
+            <AccountNumber></AccountNumber>
+            <GrandTotal>1099</GrandTotal>
+        </Payment>
+    </Sale>
+</SaleDetails>

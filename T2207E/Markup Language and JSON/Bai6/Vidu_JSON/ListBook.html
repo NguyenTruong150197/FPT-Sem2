@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON - Mảng đối tượng</title>
+</head>
+<body>
+    <h2>Ví dụng mảng đối tượng</h2>
+    <script>
+        var objBooks = {
+                    "list_books": [{
+                                    "isbn": 123456,
+                                    "title": "Lập trình JSON",
+                                    "category": "Khoa học",
+                                    "author": "Ly Cô Lai",
+                                    "page": 320,
+                                    "price": 9.56
+                                    }, {
+                                    "isbn": 123789,
+                                    "title": "JSON thật đơn giản",
+                                    "category": "Tâm lý",
+                                    "author": "Nhai Dép Xốp",
+                                    "page": 220,
+                                    "price": 3.84
+                                }, {
+                                    "isbn": 123790,
+                                    "title": "XML thật đơn giản",
+                                    "category": "Công nghệ thông tin",
+                                    "author": "Aptech",
+                                    "page": 220,
+                                    "price": 3.84
+                                }]
+                    };
+            //hiển thị các sách
+            for(i=0; i<objBooks.list_books.length;i++)
+            {
+                document.write("ISBN: <b>" + objBooks.list_books[i].isbn + "</b>");
+                document.write("<br>");
+                document.write("Title: " + objBooks.list_books[i].title);
+                document.write("<br>");
+                document.write("Category: " + objBooks.list_books[i].category);
+                document.write("<br>");
+                document.write("Author: " + objBooks.list_books[i].author);
+                document.write("<br>");
+                document.write("Page: " + objBooks.list_books[i].page);
+                document.write("<br>");
+                document.write("Price: " + objBooks.list_books[i].price);  
+                document.write("<hr>");
+            }      
+    </script>
+</body>
+</html>

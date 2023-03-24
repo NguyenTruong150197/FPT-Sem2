@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ví dụ JSON</title>
+</head>
+<body>
+   <h2>Ví dụ hiển thị đối tượng (JSON)</h2>
+   <script>
+       //khai báo đối tượng Book gồm: isbn,title,catgory,author..
+       var book = {
+                    isbn: 123456,
+                    title: "Lập trình JSON",
+                    category: "Khoa học",
+                    author: "Ly Cô Lai",
+                    page: 320,
+                    price: 9.56
+                };
+        //Chuyển đối tượng JS thành chuỗi JSON
+        var str = JSON.stringify(book);
+        document.write("<p>chuỗi JSON:<br>"+ str + "<br></p>");
+        //hiển thị thông tin đối tượng
+        document.write("ISBN: <b>" + book.isbn + "</b>");
+        document.write("<br>");
+        document.write("Title: " + book.title);
+        document.write("<br>");
+        document.write("Category: " + book.category);
+        document.write("<br>");
+        document.write("Author: " + book.author);
+        document.write("<br>");
+        document.write("Page: " + book.page);
+        document.write("<br>");
+        document.write("Price: " + book.price);            
+
+   </script> 
+</body>
+</html>

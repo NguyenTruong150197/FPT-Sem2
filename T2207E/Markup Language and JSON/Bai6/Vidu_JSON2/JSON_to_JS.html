@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đọc chuỗi JSON chuyển sang đối tượng JS</title>
+</head>
+<body>
+    <h2>Đọc chuỗi JSON chuyển sang đối tượng JS</h2>
+    <script>
+        var str = '[{"RollNo":"RN01","Fullname":"Student1"},{"RollNo":"RN02","Fullname":"Student2"}]';
+        var obj = JSON.parse(str);
+        for(i=0; i<obj.length; i++)
+        {
+            document.write("<p>RollNo: " + obj[i].RollNo + "</p>");
+            document.write("<p>Fullname: " + obj[i].Fullname + "</p>");
+            document.write("<hr>");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vd1.xsl"?>
+<tong>
+    <songuyen1>10</songuyen1>
+    <songuyen2>20</songuyen2>
+    <ketqua>30</ketqua>
+</tong>
