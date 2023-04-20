@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\bin\Debug\Bt_AbstractClass.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\bin\Debug\Bt_AbstractClass.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\bin\Debug\Bt_AbstractClass.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\obj\Debug\Bt_AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\obj\Debug\Bt_AbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\obj\Debug\Bt_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\obj\Debug\Bt_AbstractClass.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay05\Bt_AbstractClass\Bt_AbstractClass\obj\Debug\Bt_AbstractClass.pdb

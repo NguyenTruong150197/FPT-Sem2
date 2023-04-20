@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\obj\Debug\StudentManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay02\Solution1\StudentManager\obj\Debug\StudentManager.pdb
