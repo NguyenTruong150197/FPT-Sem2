@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\bin\Debug\GeometryExample.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\obj\Debug\GeometryExample.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\GeometryExample\GeometryExample\obj\Debug\GeometryExample.pdb

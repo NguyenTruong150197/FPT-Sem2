@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo_Interface
 {
-    public class Hinhtron:iHinh
+    public class Hinhtron : iHinh
     {
         public double bankinh;
         public Hinhtron()

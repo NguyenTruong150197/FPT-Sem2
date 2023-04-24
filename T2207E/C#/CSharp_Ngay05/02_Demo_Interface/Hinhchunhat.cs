@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo_Interface
 {
-    public class Hinhchunhat:iHinh
+    public class Hinhchunhat : iHinh
     {
         public double dai;
         public double rong;

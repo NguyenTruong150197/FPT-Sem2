@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\bin\Debug\bt1_Interface.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\bin\Debug\bt1_Interface.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\bin\Debug\bt1_Interface.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\obj\Debug\bt1_Interface.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\obj\Debug\bt1_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\obj\Debug\bt1_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\obj\Debug\bt1_Interface.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay06\bt1_Interface\bt1_Interface\obj\Debug\bt1_Interface.pdb

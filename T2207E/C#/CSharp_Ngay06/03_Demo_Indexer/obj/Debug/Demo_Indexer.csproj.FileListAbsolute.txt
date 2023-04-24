@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\bin\Debug\Demo_Indexer.exe.config
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\bin\Debug\Demo_Indexer.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\bin\Debug\Demo_Indexer.pdb
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.exe
+D:\FPTEdu\T2104E\AP\Ngay05\Demo_Indexer\obj\Debug\Demo_Indexer.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\bin\Debug\Demo_Indexer.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\bin\Debug\Demo_Indexer.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\bin\Debug\Demo_Indexer.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\obj\Debug\Demo_Indexer.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\obj\Debug\Demo_Indexer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\obj\Debug\Demo_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\obj\Debug\Demo_Indexer.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Ngay06\03_Demo_Indexer\obj\Debug\Demo_Indexer.pdb
