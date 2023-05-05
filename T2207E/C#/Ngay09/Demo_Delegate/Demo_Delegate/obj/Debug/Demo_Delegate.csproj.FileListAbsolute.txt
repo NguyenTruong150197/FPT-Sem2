@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\bin\Debug\Demo_Delegate.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\bin\Debug\Demo_Delegate.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\bin\Debug\Demo_Delegate.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\obj\Debug\Demo_Delegate.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Demo_Delegate\Demo_Delegate\obj\Debug\Demo_Delegate.pdb

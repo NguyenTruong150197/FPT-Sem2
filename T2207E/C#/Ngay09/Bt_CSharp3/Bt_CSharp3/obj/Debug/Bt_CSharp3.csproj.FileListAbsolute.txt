@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\bin\Debug\Bt_CSharp3.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\bin\Debug\Bt_CSharp3.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\bin\Debug\Bt_CSharp3.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\obj\Debug\Bt_CSharp3.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\obj\Debug\Bt_CSharp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\obj\Debug\Bt_CSharp3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\obj\Debug\Bt_CSharp3.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\Ngay09\Bt_CSharp3\Bt_CSharp3\obj\Debug\Bt_CSharp3.pdb

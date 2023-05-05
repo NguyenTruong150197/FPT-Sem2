@@ -1,0 +1,8 @@
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\bin\Debug\CSharp_Exam.exe.config
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\bin\Debug\CSharp_Exam.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\bin\Debug\CSharp_Exam.pdb
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.csproj.AssemblyReference.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.exe
+C:\Users\Asus\FPT-Sem2\T2207E\C#\CSharp_Exam\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.pdb
